@@ -16,7 +16,7 @@ FROM phusion/passenger-ruby22:0.9.16
 
 # The MAINTAINER instruction allows you to set the Author field of the generated
 # images.
-MAINTAINER "Job King'ori Maina" <yo@kingori.co> (@itsmrwave)
+MAINTAINER "Petros Papadopoulos" <petrosatamsix@gmail.com>
 
 # The RUN instructions will execute any commands in a new layer on top of the
 # current image and commit the results. The resulting committed image will be
